@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quora-Backend-Project-Rest-API-master.iml" filepath="$PROJECT_DIR$/.idea/Quora-Backend-Project-Rest-API-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora.iml" filepath="$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-api/quora-api.iml" filepath="$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-api/quora-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-db/quora-db.iml" filepath="$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-db/quora-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-service/quora-service.iml" filepath="$PROJECT_DIR$/Quora-Backend-Project-Rest-API-master/quora-service/quora-service.iml" />
+    </modules>
+  </component>
+</project>
